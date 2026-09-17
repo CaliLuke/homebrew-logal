@@ -1,8 +1,8 @@
 class Logal < Formula
   desc "Local OpenTelemetry collector backed by disposable SQLite"
   homepage "https://github.com/CaliLuke/autok-logal"
-  url "https://github.com/CaliLuke/autok-logal/releases/download/v0.2.0/autok-logal-0.2.0.tar.gz"
-  sha256 "212642d8caf6a72d5ef28fba9714f810a0fcf12ab5b6656f76b402f2022be136"
+  url "https://github.com/CaliLuke/autok-logal/releases/download/v0.3.0/autok-logal-0.3.0.tar.gz"
+  sha256 "ac207d71c2e4ad63d901926b30acb8ebde9924b49e532b1a3ce04b4ebb0a74a2"
   license "MIT"
 
   depends_on "go" => :build
